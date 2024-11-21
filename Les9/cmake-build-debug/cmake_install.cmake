@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/robin/Documents/3e jaar/ALDA/Lessen/Les 8
+# Install script for directory: C:/Users/robin/Documents/3e jaar/ALDA/Lessen/Les9
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Les_8")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Les9")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/robin/Documents/3e jaar/ALDA/Lessen/Les 8/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/robin/Documents/3e jaar/ALDA/Lessen/Les9/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

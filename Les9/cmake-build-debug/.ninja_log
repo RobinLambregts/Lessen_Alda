@@ -1,8 +1,4 @@
 # ninja log v6
-19	769	7538835576261993	CMakeFiles/Les9.dir/9.1.1.cpp.obj	23d93153a7db877
-13	779	7538835576202424	CMakeFiles/Les9.dir/main.cpp.obj	732546f9ea45f4bd
-16	332	7538839487055942	CMakeFiles/Les9.dir/main.cpp.obj	732546f9ea45f4bd
-5	289	7538840652777219	CMakeFiles/Les9.dir/main.cpp.obj	732546f9ea45f4bd
-17	353	7538841264645010	CMakeFiles/Les9.dir/main.cpp.obj	732546f9ea45f4bd
 22	815	7538841264694910	CMakeFiles/Les9.dir/9.1.1.cpp.obj	23d93153a7db877
+17	353	7538841264645010	CMakeFiles/Les9.dir/main.cpp.obj	732546f9ea45f4bd
 815	942	7538841272628580	Les9.exe	b510ddd8ec43aecf

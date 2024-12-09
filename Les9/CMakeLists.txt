@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(Les9
     main.cpp
         9.1.1.cpp
-        island.h)
+        island.h
+)

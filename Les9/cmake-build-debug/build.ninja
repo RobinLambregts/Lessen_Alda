@@ -61,6 +61,12 @@ build CMakeFiles/Les9.dir/9.1.1.cpp.obj: CXX_COMPILER__Les9_unscanned_Debug C$:/
   OBJECT_DIR = CMakeFiles\Les9.dir
   OBJECT_FILE_DIR = CMakeFiles\Les9.dir
 
+build CMakeFiles/Les9.dir/astar.cpp.obj: CXX_COMPILER__Les9_unscanned_Debug C$:/Users/robin/Documents/3e$ jaar/ALDA/Lessen/Les9/astar.cpp || cmake_object_order_depends_target_Les9
+  DEP_FILE = CMakeFiles\Les9.dir\astar.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Les9.dir
+  OBJECT_FILE_DIR = CMakeFiles\Les9.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Les9
@@ -69,7 +75,7 @@ build CMakeFiles/Les9.dir/9.1.1.cpp.obj: CXX_COMPILER__Les9_unscanned_Debug C$:/
 #############################################
 # Link the executable Les9.exe
 
-build Les9.exe: CXX_EXECUTABLE_LINKER__Les9_Debug CMakeFiles/Les9.dir/main.cpp.obj CMakeFiles/Les9.dir/9.1.1.cpp.obj
+build Les9.exe: CXX_EXECUTABLE_LINKER__Les9_Debug CMakeFiles/Les9.dir/main.cpp.obj CMakeFiles/Les9.dir/9.1.1.cpp.obj CMakeFiles/Les9.dir/astar.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Les9.dir
